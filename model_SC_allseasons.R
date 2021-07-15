@@ -1,3 +1,8 @@
+#' AUTHOR: Matt Bozigar (bozigar@bu.edu)
+#' DATE: 7/15/21
+#' PURPOSE: Define model, read-in analytic data, configure and build model, run, and view diagnostics and results
+
+
 rm(list = ls()) # clears the environment
 getwd()
 
